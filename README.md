@@ -2,7 +2,8 @@
 
 ✨ *Turning creative sparks into functional code* ✨
 
----
+<div align="center"> <img src="https://github.com/JuliaMatildeBorges/JuliaMatildeBorges/blob/main/image.png" width="300" height="300"> </div>
+
 
 ## 🔎 About Me
 
