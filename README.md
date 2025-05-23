@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm **Julia**
 
-✨ *Turning creative sparks into functional code* ✨
+<div align="center"> ✨ *Turning creative sparks into functional code* ✨ </div>
 
-<div align="center"> <img src="https://github.com/JuliaMatildeBorges/JuliaMatildeBorges/blob/main/image.png" width="300" height="300"> </div>
+<div align="center"> <img src="https://github.com/JuliaMatildeBorges/JuliaMatildeBorges/blob/main/image.png" width="900" height="800"> </div>
 
 
 ## 🔎 About Me
